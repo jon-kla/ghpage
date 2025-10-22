@@ -1,3 +1,20 @@
-# Willkommen
+---
+layout: default
+title: Startseite
+---
 
-Herzlich willkommen auf meiner zweiten Jekyll Seite
+# Willkommen auf meiner Jekyll-Seite!
+
+Das ist ein Test. Wenn du das siehst, funktioniert alles! 🎉
+
+## Was ich heute gelernt habe
+
+- Jekyll lokal einrichten
+- Gemfile konfigurieren
+- Themes verwenden
+
+## Nächste Schritte
+
+- [ ] Mehr Seiten hinzufügen
+- [ ] Blog-Posts schreiben
+- [ ] Design anpassen
